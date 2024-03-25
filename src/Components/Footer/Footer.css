@@ -1,0 +1,40 @@
+.follow{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.pic{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.imgg1{
+    width:20px;
+    height:20px;
+    margin: 0 20px;
+}
+
+#dis{
+    width:100px;
+    height: 40px;
+}
+.dis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-size: 12px;
+}
+
+.footie span{
+    margin: 10px;
+}

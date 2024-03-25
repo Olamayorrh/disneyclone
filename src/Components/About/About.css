@@ -1,0 +1,20 @@
+.about{
+    background-image: url('../src/assets/images/taylor001.png');
+    width:100%;
+    height:800px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.about h1,h2,h3{
+    color:gray;
+}
+
+.about button{
+    background-color: hotpink;
+}
